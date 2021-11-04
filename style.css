@@ -1,0 +1,251 @@
+.background {
+    background-color: #000;
+}
+.menu-toppon {
+    display: inline-flex;
+}
+.menu-logo {
+    text-decoration: none;
+    color: #ffffff;
+}
+.elemento-menu #menu-logo {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 2em;
+}
+.separador {
+    display: inline-flex;
+}
+.menu-secundario {
+    display: inline-flex;
+    margin-left: 50em;
+}
+.elemento-menu {
+    margin-top: 1.5em;
+}
+#menu-item {
+    text-decoration: none;
+    color: #ffffff;
+    margin: 0 1em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.dropmenu {
+    margin: 1.7em 1em;
+}
+#image-fundo-menu {
+    height: 50%;
+    min-height: 400px;
+    margin-top: 3em;
+    margin-left: 12em;
+}
+.background-image-fundo {
+    background-color: #f0e68c;
+}
+.separador-imagem-meio {
+    display: inline-flex;
+}
+#name-main {
+    margin-top: 1.8em;
+}
+#text {
+    text-decoration: none;
+    color: #ffffff;
+}
+.tema {
+    display: flex;
+    justify-content: center;
+}
+#tema-col {
+    font-size: 3em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.coluna-menu-principal {
+    display: inline-flex;
+    margin-top: 1em;
+}
+#coluna-menu-filha {
+    margin: 0 1em;
+    text-decoration: none;
+}
+#retirar-font {
+    text-decoration: none;
+    color: #000;
+    font-size: 1.5em;
+}
+.coluna-menu-principal li {
+    color: #ff7f50;
+}
+.menu-small-logo {
+    display: grid;
+    margin-left: 0 auto;
+    justify-content: center;
+}
+#menu-filha-primario {
+    border-radius: 4px;
+    border-style: solid;
+    background-color: #228b22;
+    padding: 2px 2em;
+}
+#menu-neta-primario {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 1.5em;
+}
+#menu-filha-secundario {
+    border-radius: 4px;
+    border-style: solid;
+    background-color: #99d8c6;
+    padding: 2px 2em;
+    margin-top: 1em;
+}
+#menu-neta-secundario {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 1.5em;
+}
+#menu-neta-terciario {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 1.5em;
+}
+#menu-filha-terciario {
+    border-radius: 4px;
+    border-style: solid;
+    background-color: #7fff00;
+    padding: 2px 2em;
+    margin-top: 1em;
+}
+#faixa-laranja {
+    color: #f17345;
+    border: 1px solid;
+}
+#ganhe-use {
+    max-width: 575px;
+    min-height: 325px;
+    margin-right: 10px;
+}
+#ganhe-use-dois {
+    max-width: 350px;
+}
+#ganhe-use-tres {
+    max-width: 350px;
+    margin-top: 10px;
+}
+.congruente-imagens {
+    display: inline-flex;
+    margin-top: 2em;
+}
+#ganhe-use-quatro {
+    max-width: 350px;
+    min-height: 165px;
+    margin-left: 10px;
+}
+#ganhe-use-cinco {
+    max-width: 350px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.text-question {
+    margin-top: 4em;
+}
+#title-ragnarok-online {
+    color: #f17345;
+}
+.card-title {
+    text-align: center;
+}
+#text-discovery {
+    color: #f17345;
+}
+.text-discovery-father {
+    margin-top: 3em;
+}
+#imagem-main-principal {
+    max-width: 1300px;
+}
+.text-direcional-father {
+    display: grid;
+    justify-content: center;
+}
+#title-secundario-filho {
+    color: #ff69b4;
+}
+#conferir-cards-filho {
+    color: #cd853f;
+}
+.conferir-cards {
+    margin-top: 3em;
+}
+#emperium {
+    max-width: 300px;
+}
+#emperium-legend {
+    text-align: center;
+}
+#punished {
+    max-width: 300px;
+    margin-left: 2px;
+}
+#punished-legend {
+    text-align: center;
+}
+#subscribe {
+    max-width: 300px;
+}
+#subscribe-legend {
+    text-align: center;
+}
+#discord {
+    max-width: 300px;
+}
+.linha {
+    display: inline-flex;
+}
+.coluna {
+    margin: 0 13px;
+}
+#discord-legend {
+    text-align: center;
+}
+.background-footer {
+    margin-top: 5em;
+}
+#title-footer-comeon {
+    color: #ffffff;
+}
+.background-footer-father {
+    background-color: #000;
+}
+.lista-icons-footer {
+    display: inline-flex;
+    list-style: none;
+}
+#imagem-footer {
+    margin: 0 5px;
+}
+#titulo-lista-one {
+    color: #ffffff;
+}
+.lista-one-pai {
+    list-style: none;
+}
+#link-lista-filha {
+    text-decoration: none;
+    color: #ffffff;
+}
+#title-footer-comeon {
+    margin-left: 1em;
+}
+.lista-icons-footer {
+    margin-top: 1.5em;
+}
+.lista-two-pai {
+    list-style: none;
+}
+#titulo-lista-two {
+    color: #ffffff;
+}
+.organizador-footer-linhas {
+    display: inline-flex;
+    margin-top: 1.5em;
+}
